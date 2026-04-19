@@ -1,4 +1,2 @@
-# Lab 2 - Starter
-Part 1) https://ailapj.github.io/Lab2_Starter/ 
-
-Part 2) Scavenger hunt answers
+# Lab 3 
+link to published page: https://ailapj.github.io/sp26-cse110-lab3/
