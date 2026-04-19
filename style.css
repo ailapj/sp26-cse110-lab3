@@ -1,0 +1,53 @@
+/* Style Sheet for Meeting Minutes */
+
+/* CSS variables */
+:root {
+    --main-color: #0457A0;
+    --text-color: #FFF56C;
+}
+
+/* CSS variables & Fallback example, and background style*/
+body {
+    background-color: var(--main-color, darkblue);
+}
+
+header {
+    background-color: hsl(56, 100%, 71%); 
+    color: darkblue;
+    text-align: center;
+    margin-top: 5vh; /* relative unit */
+    font-size: 12pt; /* absolute unit */
+}
+
+h1 {
+    color:rgb(249, 249, 247);
+    text-align: center;
+}
+
+h2 {
+    color: color-mix(in srgb, #724a16 60%, yellow 40%);
+}
+
+h3 {
+    text-decoration: underline lightblue;
+    color: var(--text-color, yellow); 
+}
+
+p {
+   font-size: 0.50cm; /* absolute unit */
+}
+
+section {
+    border-width: 2px; /* absolute unit */
+    font-size: 1.5em; /* relative unit */
+}
+
+legend {
+    color: color(display-p3 1 0 0);
+}
+form {
+    margin: 0.5cm; /* absolute unit */
+    width: 80%; /* relative unit */
+    text-align: left;
+    align-: center;
+}
