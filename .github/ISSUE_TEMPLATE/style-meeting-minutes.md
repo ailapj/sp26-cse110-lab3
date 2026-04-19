@@ -1,23 +1,16 @@
 ---
-name: Style meeting minutes
-about: Implementing core CSS styling, positioning, and layout
-title: ''
-labels: ''
+name: Lab 3 Tasks
+about: Implementing CSS styling, CSS Validation, and Standup Notes
+title: Lab checklist task
+labels: feature
 assignees: ailapj
 
 ---
 
-- [ ] Comment
-- [ ] Color
-- [ ] CSS Variables & Fallbacks
-- [ ] Background
-- [ ] Unit 
-- [ ] Box Model 
-- [ ] Text 
-- [ ] Display 
-- [ ] Sizing 
-- [ ] Position 
-- [ ] Pseudo-class
-- [ ] Layouts 
-- [ ] Responsiveness 
-- [ ] Fonts
+## Description 
+every checklist in lab 3 write up needs to be done 
+
+## Tasks
+- [ ] CSS Styling
+- [ ] CSS Validation
+- [ ] Standup Note
